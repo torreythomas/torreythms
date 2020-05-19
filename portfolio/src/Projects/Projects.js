@@ -44,7 +44,7 @@ After the Storm is a start-up application website that I made using Bootstrap an
 
   <p className="tl ma2 pa3"> 
  
-  Refulgence is a fully front-end application made with React, SCSS, and Bootstrap. With only 3 days to complete the site to the best of my ability, I sought to challenge myself to work in a real-world type of environment with hard deadlines. I really enjoyed creating this application as it allowed me to practice making deployments, creating a smooth workflow, and utilizing time management skills and online resources to help me finish any issues without just copy and pasting code. The purpose of this project was to challenge me mentally to skillfully to complete what a real-world website looks like, as opposed to making small side projects.
+  Refulgence is a fully front-end application made with React, SCSS, and Bootstrap. With only 3 days to complete the site to the best of my ability, I sought to challenge myself to work in a real-world type of environment with hard deadlines. I really enjoyed creating this application as it allowed me to practice making deployments, creating a smooth workflow, and utilizing time management skills and online resources to help me finish any issues without just copy and pasting code. The purpose of this project was to challenge me mentally and skillfully to complete what a real-world website looks like, as opposed to making small side projects.
  
   </p>
 
