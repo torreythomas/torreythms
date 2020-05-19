@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/torreythms/static/css/main.9b53ed43.chunk.css",
+    "main.js": "/torreythms/static/js/main.a137a4a4.chunk.js",
+    "main.js.map": "/torreythms/static/js/main.a137a4a4.chunk.js.map",
+    "runtime-main.js": "/torreythms/static/js/runtime-main.c1804547.js",
+    "runtime-main.js.map": "/torreythms/static/js/runtime-main.c1804547.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/torreythms/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.aa68440b.chunk.js": "/torreythms/static/js/2.aa68440b.chunk.js",
+    "static/js/2.aa68440b.chunk.js.map": "/torreythms/static/js/2.aa68440b.chunk.js.map",
+    "index.html": "/torreythms/index.html",
+    "precache-manifest.1f44df22a80d4197501f8b5732be5de4.js": "/torreythms/precache-manifest.1f44df22a80d4197501f8b5732be5de4.js",
+    "service-worker.js": "/torreythms/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/torreythms/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.9b53ed43.chunk.css.map": "/torreythms/static/css/main.9b53ed43.chunk.css.map",
+    "static/js/2.aa68440b.chunk.js.LICENSE.txt": "/torreythms/static/js/2.aa68440b.chunk.js.LICENSE.txt",
+    "static/media/IMG_1660.jpeg": "/torreythms/static/media/IMG_1660.241dd605.jpeg",
+    "static/media/afterthestorm.png": "/torreythms/static/media/afterthestorm.b8548207.png",
+    "static/media/countriesapi.png": "/torreythms/static/media/countriesapi.0ed71ae3.png",
+    "static/media/hangman.png": "/torreythms/static/media/hangman.81a3c35b.png",
+    "static/media/img1.png": "/torreythms/static/media/img1.d6b8b694.png",
+    "static/media/img2.png": "/torreythms/static/media/img2.f721a814.png",
+    "static/media/refulgence.png": "/torreythms/static/media/refulgence.4c184386.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1804547.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.aa68440b.chunk.js",
+    "static/css/main.9b53ed43.chunk.css",
+    "static/js/main.a137a4a4.chunk.js"
+  ]
+}
