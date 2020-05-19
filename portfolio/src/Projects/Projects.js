@@ -38,7 +38,7 @@ After the Storm is a start-up application website that I made using Bootstrap an
 
 
 
- <a href="https://refulgence.netlify.app//"><img className="grow shadow"  src={require('../images/refulgence.png')}/></a>
+ <a href="https://refulgence.netlify.app/"><img className="grow shadow"  src={require('../images/refulgence.png')}/></a>
 
   <h2> Refulgence</h2>
 
