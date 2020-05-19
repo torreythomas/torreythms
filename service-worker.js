@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/torreythms/precache-manifest.1f44df22a80d4197501f8b5732be5de4.js"
+  "/torreythms/precache-manifest.8e575072cd37f66abd170f9384eb559c.js"
 );
 
 self.addEventListener('message', (event) => {
