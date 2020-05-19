@@ -1,0 +1,48 @@
+.image1 {
+    width: 50vw;
+}
+
+.image2 {
+    width: 50vw;
+    height: 50vh;
+}
+
+.image1 {
+    width: 50vw;
+    height: 50vh;
+}
+
+.image1 {
+    width: 50vw;
+    height: 50vh;
+}
+
+.ma3 {
+    height: 100vh;
+}
+
+
+
+.imgs {
+    display: flex;
+    justify-content: center;
+}
+
+.projects-div {
+    width: 70vw;
+    height: 70vh;
+}
+
+.project-icons {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    margin: 10px;
+}
+
+
+.project-icons:hover {
+
+    color: yellow;
+
+}

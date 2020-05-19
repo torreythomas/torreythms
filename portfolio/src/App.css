@@ -1,0 +1,163 @@
+.App {
+    background-color: #1a1a1a;
+    height: 100vh;
+    position: absolute;
+    width: 100vw;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+}
+
+html {
+  background-color: #1a1a1a;
+}
+
+.ma3{
+  height: 100vh;
+}
+
+
+
+
+.nav-link{
+  color:white;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.nav-link:hover{
+  color: yellow;
+  transition: ease-in;
+}
+
+
+nav {
+  background-color: rgb(37, 35, 35);
+  height: 100vh;
+}
+ 
+li {
+  padding: 10px;
+}
+
+.landslide {
+  background-color: yellow;
+}
+
+
+
+i {
+  margin: 10px;
+}
+
+i:hover {
+  color: yellow;
+}
+
+ul {
+  list-style: none;
+  padding: 10px;
+}
+
+
+.tl {
+  line-height: 1.5em;
+}
+
+a {
+  color: white;
+}
+
+
+/* SMARTPHONES PORTRAIT */
+@media only screen and (min-width: 300px) {
+  .nav-link{
+    color:white;
+    text-decoration: none;
+    font-size: 10px;
+  }
+
+  .ma3 {
+    font-size: 10px;
+  }
+
+  h2,h3 {
+    font-size:13px;
+  }
+
+
+  
+}
+
+
+
+/* SMARTPHONES PORTRAIT */
+@media only screen and (min-width: 300px) {
+  .nav-link{
+    color:white;
+    text-decoration: none;
+    font-size: 6px;
+  }
+
+  div.slider-div {     /* this will hide div with class div_class_name */
+    visibility: hidden;
+  }
+  
+
+  .ma3 {
+    font-size: 10px;
+  }
+
+}
+
+
+
+/* SMARTPHONES LANDSCAPE */
+@media only screen and (min-width: 480px) {
+  div.slider-div {     /* this will hide div with class div_class_name */
+    visibility: visible;
+  }
+
+
+  .nav-link{
+    color:white;
+    text-decoration: none;
+    font-size: 10px;
+  }
+
+  .ma3 {
+    font-size: 15px;
+  }
+
+}
+
+/* TABLETS PORTRAIT */
+@media only screen and (min-width: 768px) {
+
+  div.slider-div {     /* this will hide div with class div_class_name */
+    visibility: visible;
+  }
+
+  .ma3 {
+    font-size: 16px;
+  }
+}
+
+.nav-link{
+  color:white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+/* TABLET LANDSCAPE / DESKTOP */
+@media only screen and (min-width: 1024px) {
+
+  div.slider-div {     /* this will hide div with class div_class_name */
+    visibility: visible;
+  }
+
+  .nav-link{
+    color:white;
+    text-decoration: none;
+    font-size: 26px;
+  }
+} 
